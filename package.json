@@ -1,0 +1,16 @@
+{
+  "name": "yapper",
+  "version": "1.0.0",
+  "description": "yapper is highly opionated cli tool that lets you generate strucutred Apis,modules and production ready setups instantly.",
+  "main": "src/index.js",
+  "bin": {
+    "yapper": "src/setup.js",
+    "yapp": "src/index.js"
+  },
+  "scripts": {
+    "yapp": "node src/index.js",
+    "yapper": "node src/setup.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
