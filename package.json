@@ -12,5 +12,5 @@
     "yapper": "node src/setup.js"
   },
   "author": "",
-  "license": "ISC"
+  "license": "GPL-3.0-or-later"
 }
