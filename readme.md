@@ -1,6 +1,6 @@
 # yapper
 
-Yapper is a highly opinionated CLI tool that lets you generate structured APIs, modules, and production-ready Express + Mongoose setups instantly. 
+😺 Yapper is a highly opinionated CLI tool that lets you generate structured APIs, modules, and production-ready Express + Mongoose setups instantly. 
 
 It handles all the boilerplate of setting up an production grade Express.js application and allows you to easily generate new API modules (controllers, services, routes, and schemas) with a single command.
 
