@@ -1,3 +1,5 @@
+<img src="https://media1.tenor.com/m/47Ax7zfPiQgAAAAd/yapping-yap.gif" width="600" height="400" align="center" />
+
 # yapper
 
 😺 Yapper is a highly opinionated CLI tool that lets you generate structured APIs, modules, and production-ready Express + Mongoose setups instantly. 
