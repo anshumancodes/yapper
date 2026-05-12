@@ -11,7 +11,7 @@ It handles all the boilerplate of setting up an production grade Express.js appl
 Install `yapper` globally via npm to use its commands from anywhere:
 
 ```bash
-npm install -g yapper
+npm install -g yapper-cli
 ```
 
 ## Usage
